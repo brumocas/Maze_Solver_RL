@@ -21,12 +21,14 @@ This project demonstrates a **Maze Solver** game built with **Reinforcement Lear
 
 3. **Game Instructions**:
    - The game starts with a main menu that leads to 3 different scenes:
+     - **Menu**:
+       ![Scene 0](https://github.com/user-attachments/assets/55365a73-c74b-49a1-900d-1fff94a35466)
      - **Scene 1**:
-       ![Scene 1](https://github.com/user-attachments/assets/55365a73-c74b-49a1-900d-1fff94a35466)
+       ![Scene 1](https://github.com/user-attachments/assets/87db0da3-3a96-4b19-a84e-d598fdcaccf2)
      - **Scene 2**:
-       ![Scene 2](https://github.com/user-attachments/assets/87db0da3-3a96-4b19-a84e-d598fdcaccf2)
+       ![Scene 2](https://github.com/user-attachments/assets/d06dbfc6-28d2-40e7-967d-951ff32297f3)
      - **Scene 3**:
-       ![Scene 3](https://github.com/user-attachments/assets/d06dbfc6-28d2-40e7-967d-951ff32297f3)
+       ![image](https://github.com/user-attachments/assets/edac7fed-61cc-4eaf-9f78-e51a7a132b6e)
    - The agent must find the path from the start to the end using reinforcement learning techniques.
    - The agent receives positive or negative rewards based on its actions.
    - You can observe the agent's learning progress and decision-making process over time.
