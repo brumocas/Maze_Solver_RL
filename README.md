@@ -1,6 +1,6 @@
 # Maze Solver with Reinforcement Learning (RL) using Reward Shaping in Unity
 
-This project demonstrates a **Maze Solver** game built with **Reinforcement Learning (RL)** using **Reward Shaping** techniques, developed as part of a University unit. The goal of this project is to solve a maze by training an AI agent using RL, improving its decision-making process through reward shaping to navigate efficiently from the start to the end point.
+This project demonstrates a **Maze Solver** game built with **Reinforcement Learning (RL)** using **Reward Shaping** techniques, developed as part of Advanced Topics on Intelligent Systems for FEUP university. The goal of this project is to solve a maze by training an AI agent using RL, improving its decision-making process through reward shaping to navigate efficiently.
 
 ### Key Features:
 - **Reinforcement Learning**: The AI agent learns optimal movement strategies through trial and error.
@@ -16,7 +16,7 @@ This project demonstrates a **Maze Solver** game built with **Reinforcement Lear
    - Simply download the appropriate file for your operating system and run the executable.
 
 3. **Game Instructions**:
-   - The game starts with an AI agent in a random maze.
+   - The game starts with a main menu that leads to 3 different Scenes.
    - The agent must find the shortest path from the start to the end using reinforcement learning techniques.
    - The agent receives positive or negative rewards based on its actions (moving in the right direction or hitting a wall).
    - You can observe the agent's learning progress and decision-making process over time.
@@ -41,10 +41,5 @@ This project demonstrates a **Maze Solver** game built with **Reinforcement Lear
 - **Exploration vs Exploitation**: Balancing exploration (trying new actions) and exploitation (relying on known actions) during training was crucial to improve the agent's performance.
 - **Reward Shaping**: Designing an effective reward shaping function that accelerates learning without compromising the agent's ability to generalize to new mazes was a key challenge.
 
-### Future Improvements:
-- **Dynamic Maze Generation**: Create more complex maze generation algorithms to provide the agent with even more varied challenges.
-- **Deep Reinforcement Learning (DRL)**: Extend the project to use more advanced DRL techniques like **Proximal Policy Optimization (PPO)** or **A3C** for more sophisticated decision-making.
-- **Multiple Agents**: Introduce multiple agents working collaboratively or competitively in the same maze.
-
 ### Conclusion:
-This project showcases how **Reinforcement Learning** and **Reward Shaping** can be applied to solve dynamic and complex maze navigation problems. The game provides an interactive way to visualize RL concepts while offering a challenging environment for both the AI agent and the player.
+This project showcases how **Reinforcement Learning** and **Reward Shaping** can be applied to solve dynamic and complex maze navigation problems. The game provides an interactive way to visualize RL concepts while offering a challenging environment the AI agent.
