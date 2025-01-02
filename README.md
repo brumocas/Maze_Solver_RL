@@ -38,5 +38,8 @@ This project demonstrates a **Maze Solver** game built with **Reinforcement Lear
 - **Reinforcement Learning (RL)**: The core technique for training the agent, allowing it to improve its decision-making over time.
 - **Reward Shaping**: Used to modify the reward function, providing additional guidance to the agent during training.
 
+### Development Repository:
+- The repository containing the developed code can be found here [devel](https://github.com/brumocas/RL_Project).
+
 ### Conclusion:
 This project showcases how **Reinforcement Learning** and **Reward Shaping** can be applied to solve dynamic and complex maze navigation problems. The game provides an interactive way to visualize RL concepts while offering a challenging environment for the AI agent.
