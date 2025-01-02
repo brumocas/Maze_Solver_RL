@@ -14,7 +14,7 @@ This project demonstrates a **Maze Solver** game built with **Reinforcement Lear
 
 ### Installation & Usage:
 1. **Download the Executable**:
-   - You can find the pre-built executables for **Linux**, **Mac**, and **Windows** in the `Releases` section of this repository.
+   - You can find the pre-built executables for **Linux**, **Mac**, and **Windows** in the `git` section of this repository.
 
 2. **Run the Game**:
    - Simply download the appropriate file for your operating system and run the executable.
