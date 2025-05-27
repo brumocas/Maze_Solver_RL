@@ -6,6 +6,9 @@ This project demonstrates a **Maze Solver** game built with **Reinforcement Lear
 - Bruno Costa
 - Pedro Oliveira
 
+## Final GPA 
+20/20
+
 ### Key Features:
 - **Reinforcement Learning**: The AI agent learns optimal movement strategies through trial and error.
 - **Reward Shaping**: A technique used to modify the reward function to speed up learning by guiding the agent towards desirable behaviors.
