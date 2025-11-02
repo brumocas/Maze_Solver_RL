@@ -2,6 +2,8 @@
 
 This project demonstrates a **Maze Solver** game built with **Reinforcement Learning (RL)** using **Reward Shaping** techniques, developed as part of the **Advanced Topics on Intelligent Systems** course at **FEUP (Faculty of Engineering of the University of Porto)**. The goal of this project is to solve a maze by training an AI agent using RL, improving its decision-making process through reward shaping to navigate efficiently.
 
+<img src="scene_1.gif" width="150"> <img src="scene_2.gif" width="150"> <img src="scene_3.gif" width="150">
+
 ## Authors:
 - Bruno Costa
 - Pedro Oliveira
